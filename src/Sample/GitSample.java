@@ -1,9 +1,9 @@
 package Sample;
 
-public class Test1 
+public class GitSample 
 {
 public static void main(String[] args) 
 {
-	System.out.println("Running Test1");
+	System.out.println("GitSample");
 }
 }
